@@ -12,6 +12,7 @@ A production-ready Linux server configured from scratch with security hardening,
 - **Automation:** N8N
 - **VPN:** WireGuard via wg-easy
 - **Monitoring:** Dashdot
+- **Dashboard:** Homepage
 
 ## Project Structure
 
